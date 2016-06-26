@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PriceComparer</string>
+    <string name="app_name">Berrylizer</string>
+    <string name="txt_Berrylize">Berrylize!</string>
+    <string name="numberObjects">#</string>
+    <string name="price">$</string>
+    <string name="volumePerObject">Vol.</string>
+    <string name="txt_results">$/vol</string>
+    <string name="btnBerrylize">Berrylize!</string>
+    <string name="action_settings">Settings</string>
 </resources>
